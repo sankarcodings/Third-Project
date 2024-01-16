@@ -1,4 +1,4 @@
-n=5
+n=15
 temp=n
 fact=1
 for i in range(1,n+1):
